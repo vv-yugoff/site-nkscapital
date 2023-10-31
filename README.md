@@ -1,5 +1,4 @@
 # nkscapital
-Nikita Kinev
 
 One of the first projects. A website developed for NKS Capital.
 
